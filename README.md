@@ -1,12 +1,42 @@
-- 👋 Hi, I’m Sanyam Sharma
-- 👀 I’m passionate about computer engineering, exploring web development, advancing in machine learning, and building projects that drive meaningful impact.
-- 🌱 I’m currently learning Data Structures and Algorithms, Data Wrangling with R, HTML,CSS and Javascript for Front End Development, MongoDB for backend development, and Python for resume screening projects.  
-- 💞️ I’m looking to collaborate on innovative tech projects, especially in sustainability, community involvement, and real-world problem-solving.
-- 📫 How to reach me sanyamsharma2004ad21@gmail.com . 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love blending technology with creativity to address real-world challenges and believe every problem has a solution waiting to be discovered!
+# 👋 Hi, I'm Sanyam Sharma
 
-<!---
-SanyamCODR/SanyamCODR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 A passionate **Computer Engineering student** exploring the realms of **Artificial Intelligence**, **Machine Learning**, and **Full-Stack AI Development**. I love transforming complex data into actionable insights and creating smart systems that make a real-world impact.
+
+## 🚀 About Me
+
+- 🤖 Currently diving deep into **Deep Learning**, **Computer Vision**, and **Generative AI**
+- 🧠 Skilled in designing and training models using **TensorFlow**, **Keras**, **Scikit-learn**, and **Transformers**
+- 🧩 Experienced in building **end-to-end ML pipelines** and deploying them via **Flask**, **Django**, or **Streamlit**
+- 🌍 Interested in applying AI for **sustainability**, **healthcare**, and **food quality analysis**
+- 💬 Love collaborating on AI-driven innovations and projects that blend technology with creativity
+
+## 🧰 Tech Stack
+
+**Languages:**  
+🐍 Python  |  💻 C++  |  ☕ JavaScript
+
+**AI / ML Tools:**  
+🧠 TensorFlow  |  🤖 Keras  |  📊 Scikit-learn  |  🧬 OpenCV  |  🤗 Transformers
+
+**Data & Visualization:**  
+📈 Pandas  |  NumPy  |  Matplotlib  |  Seaborn
+
+**Web Technologies:**  
+⚙️ Flask  |  Django  |  Streamlit  |  MongoDB  |  HTML/CSS/JS
+
+**Other Tools:**  
+🧰 Git & GitHub  |  🗂️ VS Code  |  ☁️ Render / Vercel
+
+## 📫 Get in Touch
+
+- 📧 **Email:** [sanyamsharma2004ad21@gmail.com](mailto:sanyamsharma2004ad21@gmail.com)
+- 💼 **LinkedIn:** [Sanyam Sharma](https://www.linkedin.com/in/sanyam-sharma-15ab50288/)
+- 🌐 **Projects:** Check out my repositories below!
+
+## ⚡ Fun Fact
+
+*"I love blending technology with creativity — every dataset hides a story, and every problem hides a solution waiting to be discovered."*
+
+---
+
+**Feel free to explore my repositories and connect with me for exciting AI collaborations!** 🚀
